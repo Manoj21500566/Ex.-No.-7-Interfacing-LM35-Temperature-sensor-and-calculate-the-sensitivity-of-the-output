@@ -218,21 +218,29 @@ int main()
 Calculation of sensitivity 
 % of sensitivity is   S=  (T2-T1)/(A2-A1)*100
 
+
 ![1](https://user-images.githubusercontent.com/94588708/202759942-79920496-91c3-4277-b835-9572d4f4f005.png)
 
  
 Figure -09 graph between temperature values and ADC output 
 
+
 ![2](https://user-images.githubusercontent.com/94588708/202760073-08165b92-837e-4815-a641-25a47e40e383.png)
 
 ## Output screen shots :
 Display Off:
+
+
 ![3](https://user-images.githubusercontent.com/94588708/202760222-4562cca7-647a-43e9-8a54-95bc628a19f7.png)
 
 Display On:
+
+
 ![4](https://user-images.githubusercontent.com/94588708/202760268-5042db3f-f2aa-41e7-b72a-d0d7d0b572f6.png)
 
 Layout Diagram:
+
+
 ![5](https://user-images.githubusercontent.com/94588708/202760304-30bf88a7-d187-4a98-a7a6-aef900d901be.png)
 
 
